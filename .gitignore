@@ -1,0 +1,40 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+myenv/
+
+# Environment variables and credentials
+.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled C extensions
+*.so
+
+# macOS specific files
+*.DS_Store
+
+# Coverage reports
+htmlcov/
+*.cover
+*.py,cover
+.coverage
+.coverage.*
+
+# MyPy cache
+.mypy_cache/
+
+# Test reports
+junitxml.xml
+coverage.xml
